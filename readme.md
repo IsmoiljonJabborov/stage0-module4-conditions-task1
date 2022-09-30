@@ -23,7 +23,7 @@ implemented in code snippet:
 
 
 #### 3) No brackets printer.
-Put the brackets to the code snippet so as to not print anything to console in the following
+Put the brackets to the code snippet to not print anything to console in the following
 code snippet:
 
 
