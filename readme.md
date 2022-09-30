@@ -53,7 +53,7 @@ Fill the gaps in the code snippet so that the program compiles and prints: "Hell
 
 #### 5) Positive number determiner.
 Create a program that will determine and print if consumed number is positive (in this
-case print true) or no (print false) using if-else block. The program should be implemented inside of code snippet:
+case print true) or no rint false) using if-else block. The program should be implemented inside of code snippet:
 
 
         public class PositiveNumberDeterminer {
